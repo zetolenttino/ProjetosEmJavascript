@@ -20,20 +20,8 @@ section {
     box-shadow: 4px 4px black;
 }
 
-#botao {
-    border-radius: 5px;
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-}
-
 footer {
     color: rgb(204, 203, 199);
     text-align: center;
     font-style: italic;
 }
-
-
-/*
-#foto {
-    width: 200px;
-}*/
